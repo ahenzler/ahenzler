@@ -11,7 +11,7 @@
 ### Thanks For Stopping By!
 
 
-[![Ahenzler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahenzler)](https://github.com/ahenzler/github-readme-stats)
+[![Alicia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahenzler&show_icons=true&theme=dracula))](https://github.com/ahenzler/github-readme-stats)
 
 <br>
 <p align="center">
