@@ -16,7 +16,7 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/alicia-henzler/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.canva.com/design/DAEmKeiek-c/ZydhPFdUMvRXAkXmRfFTFg/view?utm_content=DAEmKeiek-c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton><img alt="Alicia Henzler's resume" src="https://img.shields.io/badge/view%20my-resume-red?style=for-the-badge"/></a>
+  <a href="https://www.canva.com/design/DAEmKeiek-c/ZydhPFdUMvRXAkXmRfFTFg/view?utm_content=DAEmKeiek-c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton><img alt="Alicia Henzler's resume" src="https://img.shields.io/badge/view%20my-resume-blueviolet?style=for-the-badge"/></a>
   <a href="mailto: aliciahenzler@outlook.com"><img alt="E-Mail" src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" /></a>
 </p> 
 
