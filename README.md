@@ -1,12 +1,12 @@
 ### 🙋🏻‍♀️ Hello, Alicia here!
 
--👩🏻‍💻 I’m currently working on date em rate em be
+-🚺 Pronouns: she/her
 
--📚 I’m currently learning graphql
+-👩🏻‍💻 I’m currently working on date_em_rate_em_be
+
+-📚 I’m currently learning GraphQL
 
 -📧 How to reach me: aliciahenzler@outlook.com
-
--🚺 Pronouns: she/her
 
 ### Thanks For Stopping By!
 
