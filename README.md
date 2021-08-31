@@ -1,4 +1,4 @@
-### 🙋🏻‍♀️ Hey, Alicia here!
+### 🙋🏻‍♀️ Hello, Alicia here!
 
 -👩🏻‍💻 I’m currently working on date em rate em be
 
