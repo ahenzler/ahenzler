@@ -6,7 +6,7 @@
 
 -📚 I’m currently learning GraphQL
 
--📧 How to reach me: aliciahenzler@outlook.com
+-📧 How to reach me: henzler.alicia@gmail.com
 
 ### Thanks For Stopping By!
 
