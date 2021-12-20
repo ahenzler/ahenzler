@@ -4,7 +4,7 @@
 
 -👩🏻‍💻 I’m currently working on date_em_rate_em_be
 
--📚 I’m currently learning GraphQL
+-📚 I’m currently learning C#/.NET
 
 -📧 How to reach me: henzler.alicia@gmail.com
 
@@ -16,7 +16,7 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/alicia-henzler/"><img alt="LinkedIn" src="https://img.shields.io/badge/view%20my-linkedin-black?style=for-the-badge"/></a>
-  <a href="https://www.canva.com/design/DAEmKeiek-c/ZydhPFdUMvRXAkXmRfFTFg/view?utm_content=DAEmKeiek-c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><img alt="Alicia Henzler's resume" src="https://img.shields.io/badge/view%20my-resume-black?style=for-the-badge"/></a>
+  <a href="https://www.canva.com/design/DAEmKeiek-c/ZydhPFdUMvRXAkXmRfFTFg/view?utm_content=DAEmKeiek-c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img alt="Alicia Henzler's resume" src="https://img.shields.io/badge/view%20my-resume-black?style=for-the-badge"/></a>
   <a href="mailto: aliciahenzler@outlook.com"><img alt="E-Mail" src="https://img.shields.io/badge/contact%20via-email-black?style=for-the-badge"/></a>
 </p> 
 
