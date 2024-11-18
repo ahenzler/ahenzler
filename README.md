@@ -18,6 +18,8 @@
   <a href="mailto: aliciahenzler@outlook.com"><img alt="E-Mail" src="https://img.shields.io/badge/contact%20via-email-black?style=for-the-badge"/></a>
 </p> 
 
+
+
 <hr>
 
 ### Technologies  
