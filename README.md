@@ -2,8 +2,6 @@
 
 -🚺 Pronouns: she/her
 
--👩🏻‍💻 I’m currently working on date_em_rate_em_be
-
 -📚 I’m currently learning C#/.NET
 
 -📧 How to reach me: henzler.alicia@gmail.com
